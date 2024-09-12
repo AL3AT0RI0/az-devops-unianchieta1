@@ -4,7 +4,7 @@ on:
   workflow_dispatch:
 
 env:
-  COMPANY_NAME: reniciuspagotto
+  COMPANY_NAME: viniciussoaresanjos
   GH_REGISTRY: ghcr.io
   IMAGE_NAME: ${{ github.repository }}
   ARM_TENANT_ID: 8f40ba42-dd02-4744-9b4b-3334bf93a647
